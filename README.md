@@ -1,7 +1,4 @@
 This line was updated remotely again.
-
-this was added locally.
-
-this is another line.
-
-another edit 
+This line was added remotely from GitHub
+this was added locally
+another  edit
