@@ -4,6 +4,4 @@ this was added locally.
 
 this is another line.
 
-
-
 another edit 
